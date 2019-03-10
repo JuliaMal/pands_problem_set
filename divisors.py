@@ -6,6 +6,6 @@ for x in range(1000, 10000):
 
     # condition: divisible by 6, but not 12
     if x % 6 == 0 and not x % 12 == 0:
-        # print the list of numbers that matching the condition
+        # print the list of numbers that are matching the condition
         print(x)
 

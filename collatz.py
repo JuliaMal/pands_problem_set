@@ -18,7 +18,7 @@ while x > 1:
     else:
         x = (x * 3) + 1
     # prints everytime the value of x
-    print (x)
+    print (x, end = " ")
 
     
 
