@@ -3,10 +3,13 @@
 # and outputs every second line
 
 with open("Romeo_and_Juliet.txt", "r") as f:
-# reads text line by line:    
+    count = 1   
     for line in f:
-        c = f.readline()
-        print(c)
+# prints every single line of the text
+        if count % 2 == 0:
+            print(line.strip())
+        count = count + 1
+
 # closing text file
 f.close()
 
