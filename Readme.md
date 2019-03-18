@@ -1,6 +1,6 @@
 # Problem set 2019
 
-This repository contains my solutions to the Probmen set 2019 for the module "Progmramming and Scripting" at GMIT.
+This repository contains my solutions to the Problem set 2019 for the module "Progmramming and Scripting" at GMIT.
 
 For more information please visit the Githib repository: 
 https://github.com/JuliaMal/pands_problem_set
@@ -26,7 +26,7 @@ https://github.com/JuliaMal/pands_problem_set
 3. The file divisors.py contains solution for a problem #3
 4. The file function.py contains solution for a problem #10
 5. The file primes.py contains solution for a problem #5
-6. The file Romeo_and_Juliet.py contains a prologue from the famous play written by William Shakespeare. This file is used in the        solution for a problem #9
+6. The file Romeo_and_Juliet.py contains a prologue from the famous play written by William Shakespeare. This file is used in the solution for a problem #9
 7. The file second.py contains solution for a problem #9
 8. The file secondstring.py contains solution for a problem #6
 9. The file squareroot.py contains solution for a problem #7
