@@ -25,13 +25,14 @@ https://github.com/JuliaMal/pands_problem_set
 2. The file collatz.py contains solution for a problem #4
 3. The file divisors.py contains solution for a problem #3
 4. The file function.py contains solution for a problem #10
-5. The file primes.py contains solution for a problem #5
-6. The file Romeo_and_Juliet.py contains a prologue from the famous play written by William Shakespeare. This file is used in the solution for a problem #9
-7. The file second.py contains solution for a problem #9
-8. The file secondstring.py contains solution for a problem #6
-9. The file squareroot.py contains solution for a problem #7
-10. The file sumupto.py contains solution for a problem #1
-11. The file today-date.py contains solution for a problem #8
+5. The file plot_of_functions.png contains graphs for a problem #10
+6. The file primes.py contains solution for a problem #5
+7. The file Romeo_and_Juliet.py contains a prologue from the famous play written by William Shakespeare. This file is used in the solution for a problem #9
+8. The file second.py contains solution for a problem #9
+9. The file secondstring.py contains solution for a problem #6
+10. The file squareroot.py contains solution for a problem #7
+11. The file sumupto.py contains solution for a problem #1
+12. The file today-date.py contains solution for a problem #8
 
 
 # References
@@ -46,3 +47,7 @@ To get more familiar with the Python and coding itself, I have used the followin
     - https://stackoverflow.com/questions/38863210/how-to-make-pythons-datetime-object-show-am-and-pm-in-lowercase
     - https://discuss.codecademy.com/t/how-to-convert-to-12-hour-clock/3920
     - https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+7. How to plot using matplotlib and numpy:
+    - https://www.digitalocean.com/community/tutorials/how-to-plot-data-in-python-3-using-matplotlib
+    - https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.arange.html
+    - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
